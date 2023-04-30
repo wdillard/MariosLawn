@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(209, 251, 205)
+}
+#navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px;
+}
+#info {
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+}
+#about {
+    max-width: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.images {
+    max-width: 40%;
+    border-radius: 40px;
+    border-style: solid;
+    border-width: 5px;
+}
